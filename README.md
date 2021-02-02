@@ -1,2 +1,2 @@
 # rsschool-cv  
-https://lan3945663/rsschool-cv/cv
+https://lan3945663.github.io/rsschool-cv/cv
