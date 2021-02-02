@@ -1,16 +1,16 @@
 ## Anna Likhacheva
 
-### :small_blue_diamond: Contacts
+### Contacts
 
 Telegram
 : @ann_8075  
 
-### :small_blue_diamond: About
+### About
 
 Location: Minsk  
 Date of birth: 30.06.1996
 
-### :small_blue_diamond: Skills
+### Skills
 
 * technologies
   * JavaScript, HTML, React, Mobx, CSS, Backbone/Marionette
@@ -19,7 +19,7 @@ Date of birth: 30.06.1996
 * development tools
   * Webpack, ESLint
   
-### :small_blue_diamond: Experience
+### Experience
 
 2017 - 2019  
 **BelGISS**
@@ -41,7 +41,7 @@ Date of birth: 30.06.1996
 
 [code sample](https://bitbucket.org/an_nl/canvas)
 
-### :small_blue_diamond: Education
+### Education
 2013 - 2017  
 **Academy of Public Administration under the President of the Republic of Belarus**  
 speciality – management of information resources
@@ -50,5 +50,5 @@ speciality – management of information resources
 **CIDR**  
 Digital design [works](https://drive.google.com/drive/folders/1X0KyjHUYHZffA0ARPkhe3IqoSwP8Nz4y?usp=sharing)
 
-### :small_blue_diamond: English level  
+### English level  
 B1
