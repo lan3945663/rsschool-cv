@@ -13,7 +13,7 @@ Date of birth: 30.06.1996
 ### :small_blue_diamond: Skills
 
 * technologies
-  * JavaScript, HTML, React, CSS, Backbone/Marionette
+  * JavaScript, HTML, React, Mobx, CSS, Backbone/Marionette
 * version control systems
   * Mercurial, Git
 * development tools
@@ -37,7 +37,9 @@ Date of birth: 30.06.1996
 2020 - current time  
 **BelGISS**
 - user interface development;
-- improvement of existing projects;
+- improvement of existing projects;  
+
+[code sample](https://bitbucket.org/an_nl/canvas)
 
 ### :small_blue_diamond: Education
 2013 - 2017  
