@@ -12,12 +12,13 @@ Date of birth: 30.06.1996
 
 ### :small_blue_diamond: Skills
 
-* JavaScript React, Backbone/Marionette
-* HTML
-* CSS
-* Mercurial, Git
-* Webpack
-
+* technologies
+  * JavaScript, HTML, React, CSS, Backbone/Marionette
+* version control systems
+  * Mercurial, Git
+* development tools
+  * Webpack, ESLint
+  
 ### :small_blue_diamond: Experience
 
 2017 - 2019  
@@ -39,6 +40,6 @@ Date of birth: 30.06.1996
 - improvement of existing projects;
 
 ### :small_blue_diamond: Education
-
-Academy of Public Administration under the President of the Republic of Belarus  
+2013 - 2017  
+**Academy of Public Administration under the President of the Republic of Belarus**  
 speciality – information resource management.
