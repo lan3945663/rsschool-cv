@@ -2,8 +2,7 @@
 
 ### Contacts
 
-Telegram
-: @ann_8075  
+Telegram: @ann_8075  
 
 ### About
 
