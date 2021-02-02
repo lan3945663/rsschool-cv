@@ -42,4 +42,11 @@ Date of birth: 30.06.1996
 ### :small_blue_diamond: Education
 2013 - 2017  
 **Academy of Public Administration under the President of the Republic of Belarus**  
-speciality – information resource management.
+speciality – management of information resources
+
+2018  
+**CIDR**  
+Digital design [works](https://drive.google.com/drive/folders/1X0KyjHUYHZffA0ARPkhe3IqoSwP8Nz4y?usp=sharing)
+
+### :small_blue_diamond: English level  
+B1
