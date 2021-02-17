@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: akzidenzgroteskpro-regular-webfont,Arial,sans-serif;
+}
+
+.container {
+  width: 900px;
+  padding-top: 16px;
+  margin: 0 auto;
+}
+
+.cv-title {
+  position: relative;
+  float: left;
+  width: 20%;
+}
+
+.cv-content {
+  position: relative;
+  float: right;
+  width: 80%;
+}
+
+/* Wrapping element for .modal-title and .modal-close */
+.cv-block {
+  display: flex;
+  margin-bottom: 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px dashed gray;
+}
