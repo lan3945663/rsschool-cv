@@ -92,4 +92,7 @@ footer { border-top: 1px dashed #dcdcdc; }
   text-align: right;
 }
 
-.meta-info { text-align: center; }
+.meta-info {
+  padding: 12px;
+  text-align: center;
+}
