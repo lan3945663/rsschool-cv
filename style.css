@@ -1,30 +1,131 @@
 body {
   margin: 0;
-  font-family: akzidenzgroteskpro-regular-webfont,Arial,sans-serif;
+  font-family: Calibri;
 }
 
 .container {
   width: 900px;
-  padding-top: 16px;
+  padding-top: 12px;
   margin: 0 auto;
 }
 
+.cv-block {
+  padding: 12px;
+}
+
+.cv-common {
+  width: 30%;
+  border: 1px dashed gainsboro;
+}
+
+.photo {
+  border-radius: 200px;
+  width: 98%;
+  height: auto;
+  border: 3px solid #030852;
+}
+
+.photo-container {
+  padding-bottom: 24px;
+}
+
+ul li {
+  list-style-type: circle;
+  line-height: 1.2rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.cv-container a {
+  word-break: break-all;
+}
+
+.experience ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.cv-specific {
+  width: 70%;
+  border-right: 1px dashed gainsboro;
+  border-bottom: 1px dashed gainsboro;
+  border-top: 1px dashed gainsboro;
+}
+
+.cv-container {
+  display: flex;
+}
+
+.cv-title h3 {
+  margin: 0;
+}
+
 .cv-title {
-  position: relative;
-  float: left;
-  width: 20%;
+  border: 3px solid #030852;
+  padding: 2px 12px;
+  border-radius: 10px;
 }
 
 .cv-content {
-  position: relative;
-  float: right;
-  width: 80%;
+  padding: 12px 12px;
 }
 
-/* Wrapping element for .modal-title and .modal-close */
-.cv-block {
+ul {
+  margin: 0px;
+}
+
+.company {
   display: flex;
-  margin-bottom: 16px;
-  padding-bottom: 16px;
-  border-bottom: 1px dashed gray;
+  flex-wrap: wrap;
+}
+
+.company-info {
+  width: 70%;
+}
+
+.company-period {
+  width: 30%;
+}
+
+.company-period, .company-info {
+  padding-bottom: 32px;
+}
+
+.header {
+  padding: 12px;
+  border-right: 1px dashed gainsboro;
+  border-top: 1px dashed gainsboro;
+  border-left: 1px dashed gainsboro;
+}
+
+h1 {
+  margin: 0;
+}
+
+footer {
+  border-right: 1px dashed gainsboro;
+  border-bottom: 1px dashed gainsboro;
+  border-left: 1px dashed gainsboro;
+}
+
+.logo-container {
+  display: flex;
+  align-items: stretch;
+  padding: 12px;
+  border-bottom: 1px dashed gainsboro;
+}
+
+.logo-container img {
+  height: 100%;
+}
+
+.logo-item {
+  flex: 0.1 0 5%;
+  text-align: right;
+}
+
+.meta-info {
+  text-align: center;
 }
